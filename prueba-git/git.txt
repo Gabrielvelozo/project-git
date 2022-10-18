@@ -1,0 +1,53 @@
+ls -- Listado de lo que tenemos en la ubicacion
+
+mkdir -- Crear carpeta + nombre del proyecto
+
+cd -- Moverme a una carpeta  /  cd.. -- volver atras
+
+touch -- Crear archivo ej index.html
+
+code. -- Abrir Visual Studio Code donde estas posicionado
+
+
+clear -- Limpiar Terminal 
+
+git config --global user.name "xxx" -- crear usuario
+
+git config user.name  -- chequear si esta bien el nombre
+
+git config --global user.email "mail@gmail.com" - ingresar el email
+
+git config user.email -- validar si esta bien el email
+
+git init -- inicializar git
+
+git status -- estado del proyecto
+
+git add xxxx -- para indicar a git que queremos trackear 
+
+git add . -- trackear todo
+
+git commit -m "Mensaje de referencia de guardado" -- para subir lo trackeado
+
+git log -- para ver el estado de lo commitiado
+
+git show -- modificaciones entre los ultimos commit
+
+git branch -- para ver que rama tenemos
+
+git branch "ramanueva" -- crear una rama
+
+git checkout ramanueva -- Mover de rama
+
+
+git merge ramanueva -- Traer las modificaciones de una rama a otra.
+
+
+
+
+
+
+
+email gabittovelozo@gmail.com
+
+password 5SSRj28FUG1>a[
